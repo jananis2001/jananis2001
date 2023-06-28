@@ -1,7 +1,7 @@
-![logo](https://cdn.wallpapersafari.com/67/53/UukaGZ.jpg)
+![logo](https://cdn.pixabay.com/photo/2023/02/06/18/30/ai-generated-7772547_1280.jpg)
 <h1 align="center">Hi 👋, I'm Janani Kandegedara</h1>
 <h3 align="center">I'm undergraduate student in IT</h3>
-<img align="right" alt="coding" width="300" src="https://pixabay.com/photos/ai-generated-woman-laptop-robot-7772547/">
+<img align="right" alt="coding" width="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jananis2001&label=Profile%20views&color=0e75b6&style=flat" alt="jananis2001" /> </p>
 
