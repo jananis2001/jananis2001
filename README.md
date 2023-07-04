@@ -1,4 +1,4 @@
-![logo](https://cdn.pixabay.com/photo/2023/02/06/18/30/ai-generated-7772547_1280.jpg?width=200&height=400)
+![logo](https://cdn.pixabay.com/photo/2023/02/06/18/30/ai-generated-7772547_1280.jpg?width=100&height=100)
 <h1 align="center">Hi 👋, I'm Janani Kandegedara</h1>
 <h3 align="center">I'm undergraduate student in IT</h3>
 <img align="right" alt="coding" width="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
