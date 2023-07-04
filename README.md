@@ -1,4 +1,4 @@
-![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg4xb4IXfgJgdGDeOI5LCsWKMAk4RKvJiYGVEv1TTOmHXXY_6T4HrvwhGFkY5fubsYaU4&usqp=CAU)
+/*![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg4xb4IXfgJgdGDeOI5LCsWKMAk4RKvJiYGVEv1TTOmHXXY_6T4HrvwhGFkY5fubsYaU4&usqp=CAU)*/
 <h1 align="center">Hi 👋, I'm Janani Kandegedara</h1>
 <h3 align="center">I'm undergraduate student in IT</h3>
 <img align="right" alt="coding" width="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
