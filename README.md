@@ -1,4 +1,4 @@
-![logo]()
+//![logo]()
 <h1 align="center">Hi 👋, I'm Janani Kandegedara</h1>
 <h3 align="center">I'm undergraduate student in IT</h3>
 <img align="right" alt="coding" width="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
